@@ -1,5 +1,5 @@
 # Ignore node_modules and build files
-node_modules/
+booking-app/node_modules/
 booking-app/node_modules/
 booking-app/build/
 
