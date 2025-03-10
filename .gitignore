@@ -1,0 +1,12 @@
+# Ignore node_modules and build files
+node_modules/
+booking-app/node_modules/
+booking-app/build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency lock files
+package-lock.json
+yarn.lock
